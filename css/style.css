@@ -1,0 +1,54 @@
+.photodeprofil{
+    border-radius: 100%;
+}
+h1{
+    margin-left: 20px;
+    color:#ffffff ;
+}
+td{
+    color:#ffffff;
+}
+p{
+    margin-left: 20px;
+    font-family: "Times New Roman", Times, serif;
+    text-indent: 5px;
+    font-weight: bold;
+}
+h2{
+    margin-left: 20px;
+}
+hr{
+    width: 30% ;
+    box-align: left;
+    margin-left:10px;
+    border-color: #ffffff;
+}
+a {
+    color: #16a596;
+  }
+  .grid-container {
+  display: grid;
+  grid-template-columns: 10% 1fr;
+  grid-gap: 20px;
+}
+.education{
+    color: #16a596;
+}
+.skills{
+    color: #16a596;
+}
+.honours{
+    color: #16a596;
+}
+.language{
+    color: #16a596;
+}
+.ecriture{
+    font-weight: bold;
+}
+.fas fa-envelope{
+    font-weight: bold;
+}
+.hadil{ 
+    font-weight: bold;
+}
